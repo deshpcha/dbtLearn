@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: demo_db
+    database: DEMO_DB
+    schema: PUBLIC
+    tables:
+      - name: CUSTOMERSOURCE
+      - name: CUSTOMER
