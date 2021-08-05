@@ -35,4 +35,4 @@ models:
   DBT_TEST:
       # Applies to all files under models/example/
       dm:
-          materialized: view
+          materialized: Table
