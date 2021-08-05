@@ -1,4 +1,4 @@
-SELECT top 10 "CustomerKey" CustomerKey
+SELECT top 20 "CustomerKey" CustomerKey
       ,"FirstName" FirstName
       ,"MiddleName" MddleName
       ,"LastName" LastName
